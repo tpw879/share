@@ -54,4 +54,6 @@ Retype new SMB password:
 
 ![image-20201224114947214](README.assets/image-20201224114947214.png)
 
+- 输出IP->浏览->相应双击输入刚才设定的用户和密码
+
 ![image-20201224115232076](README.assets/image-20201224115232076.png)
